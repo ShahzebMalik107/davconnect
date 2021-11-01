@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb://shahzeb:malik107@devconnect-shard-00-00.t5whq.mongodb.net:27017,devconnect-shard-00-01.t5whq.mongodb.net:27017,devconnect-shard-00-02.t5whq.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-qqxq0t-shard-0&authSource=admin&retryWrites=true&w=majority",
-    "jwtSecret": "mst"
+    "jwtSecret": "mst",
+    "githubClientID":"704b19f2ebde6f69ebd7",
+    "githubSeceret": "abc6bcb4ef24151d5c3426f27ba6587605bd653b"
 }
