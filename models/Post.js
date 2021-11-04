@@ -14,7 +14,7 @@ const PostSchema = new mongoos.Schema({
     name: {
         type: String,
     },
-    avatatr: {
+    avatar: {
         type: String,
     },
     likes: [{
@@ -35,7 +35,7 @@ const PostSchema = new mongoos.Schema({
         name: {
             type: String,
         },
-        avatatr: {
+        avatar: {
             type: String,
         },
         date: {
